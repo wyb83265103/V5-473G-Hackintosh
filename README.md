@@ -25,3 +25,5 @@ all sensor work
 Not work:
 Bluetooth - BUG, sometime it work, dont know why
 GT740: disable from dsdt
+
+2019.1.3日，我准备用这个为基础，开始完善我的473g，升级到10142
