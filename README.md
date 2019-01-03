@@ -1,12 +1,12 @@
 # V5-473G-Hackintosh
 Clover EFI File
 
-MacVer: 10.12
+MacVer: 10.12.6
 
 Spec:
 CPU: i5 4200U
 GPU: HD4400
-WIFI/BLE: atheros AR5B22
+WIFI/BLE: atheros AR9285
 
 
 Work:
